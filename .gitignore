@@ -1,0 +1,34 @@
+
+# Angular project gitignore
+
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.swp
+
+.idea
+node_modules
+
+pids
+logs
+results
+tmp
+
+# Coverage reports
+/coverage
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Ignore built ts files
+dist
+
+# ignore yarn.lock
+yarn.lock
+
