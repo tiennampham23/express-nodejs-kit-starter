@@ -1,5 +1,3 @@
-`Just a simple NodeJs project written by Typescript, TypeOrm, MySQL...
-I created this in my free time, just almost simplest. If you wanna use a more complicated application, please contact me.`
 
 ## Run
  - To start: `npm start`
